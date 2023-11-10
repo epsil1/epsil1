@@ -3,8 +3,8 @@
 Разархивировать на рабочий стол и через Vs Code открыть мою папку
 Далее вам понадобится создать папку venv
 Командой в терминале "py -m venv venv"
-Далее вам нужно установить VLC Media Player а, также библиотеки как pyside6, python-vlc
-Командой в терминале .\venv\Scripts\pip.exe install pyside6 , и так далее с другой библиотекой.
+Далее вам нужно установить VLC Media Player вот на него ссылка https://www.videolan.org/vlc/index.ru.html а, также библиотеки как pyside6,python-vlc
+Командой в терминале .\venv\Scripts\pip.exe install pyside6 python-vlc.
 После вам нужно сохранить наш код , нажатием клавиш Ctrl+S
 И в терминале написать .\venv\Scripts\python.exe player.py
 После всех этих действий у вас откроется наш видеоплеер!
